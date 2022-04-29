@@ -1,6 +1,6 @@
-git add
-git commit -m [nome_commit]
-git rm [nome_arquivo]
-git --amend [nome_arquivo]
-git status
-git log --oneline
+git add </br>
+git commit -m [nome_commit]  </br>
+git rm [nome_arquivo]  </br>
+git commit --amend [nome_arquivo]  </br>
+git status  </br>
+git log --oneline  </br>
