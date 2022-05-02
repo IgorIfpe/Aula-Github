@@ -4,4 +4,3 @@ git rm [nome_arquivo]  </br>
 git commit --amend [nome_arquivo]  </br>
 git status  </br>
 git log --oneline  </br>
-
