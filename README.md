@@ -1,3 +1,3 @@
-#Learning Git
+# Learning Git
 
-##My First Project with Github
+## My First Project with Github
